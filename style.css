@@ -1,0 +1,97 @@
+body {
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 2em;
+    padding: 24px 16px;
+}
+
+h2 {
+    font-size: 1.3em;
+    padding-bottom: 16px;
+    padding-top: 24px;
+}
+
+h5 {
+    background: #B71C1C;
+    color: white;
+    padding: 8px 16px;
+}
+
+#examenes {
+    background: #FAFAFA;
+    border: 1px solid #E0E0E0;
+    margin: 0px 16px 16px 16px;
+    padding: 8px 24px;
+}
+
+#contenido {
+    background: #FAFAFA;
+    border: 1px solid #E0E0E0;
+    margin: 0px 16px 16px 16px;
+    padding: 8px 24px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 8px;
+}
+
+th, td {
+    border: 1px solid #757575;
+    font-size: 0.8em;
+    padding: 4px 16px;
+    text-align: center;
+}
+
+th {
+    background: #9E9E9E;
+    color: white;
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    font-size: 0.8em;
+    margin-top: 8px;
+    margin-bottom: 4px;
+}
+
+.button {
+    background: #B71C1C;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    font-size: 0.8em;
+    padding: 8px 12px;
+    margin: 8px;
+}
+
+table form {
+    display: inline;
+}
+
+table, .form_pequena {
+    margin-left: 16px;
+}
+
+.button_form {
+    margin-top: 16px;
+}
+
+#mensaje {
+    background: #E65100;
+    color: white;
+    font-size: 0.8em;
+    padding: 16px;
+}
+
+a {
+    color: #B71C1C;
+    font-weight: bold;
+    font-size: 0.6em;
+    margin-left: 8px;
+    text-decoration: none;
+}
